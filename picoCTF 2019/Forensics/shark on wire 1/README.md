@@ -7,5 +7,7 @@ We found this packet capture. Recover the flag. You can also find the file in /p
 
 ## Solution
 Use Wireshark to inspect the packet. After scrolling through packet, follow those with suspicious character using Follow -> UDP Stream.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Capture.png")
+
+![alt text](https://github.com/aiyayayaya/ctf-writeup/blob/master/picoCTF%202019/Forensics/shark%20on%20wire%201/Capture.PNG)
+
 flag: `picoCTF{StaT31355_636f6e6e}`
