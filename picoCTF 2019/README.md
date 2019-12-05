@@ -15,7 +15,7 @@ Problem | Status
 [Caesar](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Cryptography/caesar) | Done
 [Easy1](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Cryptography/easy1) | Done
 [Tapping](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Cryptography/tapping) | Done
-[The numbers](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Cryptography/the-numbers) | Done
+[The numbers](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Cryptography/the%20numbers) | Done
 
 ## Forensics
 Problem | Status
