@@ -52,9 +52,10 @@ Problem | Status
 ## Web Exploitation
 Problem | Status
 ------------ | -------------
-[Insp3ct0r](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/Insp3ct0r) | In progress
-[logon](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/logon) | In progress
-[Client-side-again](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/Client-side-again) | In progress
-[dont-use-client-side](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/dont-use-client-side) | In progress
-[where are the robots](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/where%20are%20the%20robots) | In progress
+[Insp3ct0r](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/Insp3ct0r) | Done
+[logon](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/logon) | Done
+[Client-side-again](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/Client-side-again) | Done
+[dont-use-client-side](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/dont-use-client-side) | Done
+[where are the robots](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/where%20are%20the%20robots) | Done
 [Open-to-admins](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/Open-to-admins) | Done
+[picobrowser](https://github.com/aiyayayaya/ctf-writeup/tree/master/picoCTF%202019/Web%20exploitation/picobrowser)
